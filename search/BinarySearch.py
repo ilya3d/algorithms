@@ -1,6 +1,6 @@
 def binary_search( a, z ):
     lo = 0
-    hi = n
+    hi = len(a)
     while lo < hi:
         mid = (hi + lo) // 2
         if z > a[mid]:
