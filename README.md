@@ -7,7 +7,11 @@ my little library of algorithms to prepare for programming contests
 Backpack
 domino
 
+### findpath
+wave
+
 ### search
 BinarySearch
 
-todo
+### graph
+dijkstra
