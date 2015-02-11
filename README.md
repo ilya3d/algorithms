@@ -9,5 +9,8 @@ domino
 
 ### search
 BinarySearch
+DepthFirstSearch (matrix)
 
-todo
+### graph
+DepthFirstSearch todo
+
